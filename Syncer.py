@@ -3,7 +3,6 @@ import shutil
 import sys
 import time
 import types
-
 from FileComparer import FileComparer
 
 
